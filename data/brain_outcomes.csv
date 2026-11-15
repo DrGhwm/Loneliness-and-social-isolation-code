@@ -1,0 +1,8 @@
+Outcome,GWAS_ID,GWAS_trait
+Stroke,ebi-a-GCST006906,Stroke
+Alzheimer disease,ebi-a-GCST90027158,Alzheimer's disease
+Dementia,finn-b-F5_DEMENTIA,Dementia
+Parkinson disease,ieu-b-7,Parkinson's disease
+Major depressive disorder,ieu-b-102,Major depression
+Vascular dementia,finn-b-F5_VASCDEM,Vascular dementia
+Anxiety symptoms,ukb-d-20541,Difficulty stopping worrying during worst period of anxiety
