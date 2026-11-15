@@ -1,0 +1,1 @@
+GWAS mapping tables only. No individual-level data are included. Obtain the Bristol social-isolation summary-statistics file from its original repository and place it in data/raw/ locally. Do not upload restricted data, participant-level data or API tokens.
