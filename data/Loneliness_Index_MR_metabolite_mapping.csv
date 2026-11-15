@@ -1,0 +1,13 @@
+Exposure,Metabolite,GWAS_ID,GWAS_trait
+Loneliness Index,Albumin,met-d-Albumin,Albumin
+Loneliness Index,Cholesterol in Large HDL,met-d-L_HDL_C,Cholesterol in large HDL
+Loneliness Index,Cholesterol to Total Lipids in Medium LDL percentage,met-d-M_LDL_C_pct,Cholesterol to total lipids in medium LDL
+Loneliness Index,Cholesteryl Esters in Large HDL,met-d-L_HDL_CE,Cholesteryl esters in large HDL
+Loneliness Index,Docosahexaenoic Acid,met-d-DHA,Docosahexaenoic acid
+Loneliness Index,Docosahexaenoic Acid to Total Fatty Acids percentage,met-d-DHA_pct,Docosahexaenoic acid to total fatty acids
+Loneliness Index,Glutamine,met-d-Gln,Glutamine
+Loneliness Index,Glycine,met-d-Gly,Glycine
+Loneliness Index,Glycoprotein Acetyls,met-d-GlycA,Glycoprotein acetyls
+Loneliness Index,Linoleic Acid,met-d-LA,Linoleic acid
+Loneliness Index,Monounsaturated Fatty Acids to Total Fatty Acids percentage,met-d-MUFA_pct,Monounsaturated fatty acids to total fatty acids
+Loneliness Index,Omega-3 Fatty Acids to Total Fatty Acids percentage,met-d-Omega_3_pct,Omega-3 fatty acids to total fatty acids
