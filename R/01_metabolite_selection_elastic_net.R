@@ -2,7 +2,7 @@
 library(dplyr)
 library(glmnet)
 
-# Required local objects: metabolic, metabolic_wave1, metabolism0
+# Required local objects: metabolic, metabolism0
 covars <- c("age","sex","edu3","Ethnic_group","Towns","units",
             "BMI","smoke","Diabetes","hyper","CVD")
 exposures <- c("loneliness_index","isolation_index",
