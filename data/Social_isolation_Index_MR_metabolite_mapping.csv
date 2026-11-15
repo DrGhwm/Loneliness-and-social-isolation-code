@@ -1,0 +1,29 @@
+Exposure,Metabolite,GWAS_ID,GWAS_trait
+Social isolation Index,Glycoprotein Acetyls,met-d-GlycA,Glycoprotein acetyls
+Social isolation Index,Omega-6 Fatty Acids to Omega-3 Fatty Acids ratio,met-d-Omega_6_by_Omega_3,Omega-6 to omega-3 fatty acids ratio
+Social isolation Index,Isoleucine,met-d-Ile,Isoleucine
+Social isolation Index,Apolipoprotein B to Apolipoprotein A1 ratio,met-d-ApoB_by_ApoA1,Apolipoprotein B to apolipoprotein A1 ratio
+Social isolation Index,Monounsaturated Fatty Acids to Total Fatty Acids percentage,met-d-MUFA_pct,Monounsaturated fatty acids to total fatty acids
+Social isolation Index,Phospholipids to Total Lipids in Very Small VLDL percentage,met-d-XS_VLDL_PL_pct,Phospholipids to total lipids in very small VLDL
+Social isolation Index,Citrate,met-d-Citrate,Citrate
+Social isolation Index,Lactate,met-d-Lactate,Lactate
+Social isolation Index,Glucose-lactate,met-d-Glucose,Glucose
+Social isolation Index,Acetone,met-d-Acetone,Acetone
+Social isolation Index,Pyruvate,met-d-Pyruvate,Pyruvate
+Social isolation Index,Triglycerides to Total Lipids in Medium LDL percentage,met-d-M_LDL_TG_pct,Triglycerides to total lipids in medium LDL
+Social isolation Index,Triglycerides to Total Lipids in Large LDL percentage,met-d-L_LDL_TG_pct,Triglycerides to total lipids in large LDL
+Social isolation Index,Saturated Fatty Acids to Total Fatty Acids percentage,met-d-SFA_pct,Saturated fatty acids to total fatty acids
+Social isolation Index,Total Phospholipids in Lipoprotein Particles,met-d-Total_PL,Total phospholipids in lipoprotein particles
+Social isolation Index,Tyrosine,met-d-Tyr,Tyrosine
+Social isolation Index,Omega-3 Fatty Acids to Total Fatty Acids percentage,met-d-Omega_3_pct,Omega-3 fatty acids to total fatty acids
+Social isolation Index,Acetate,met-d-Acetate,Acetate
+Social isolation Index,Docosahexaenoic Acid to Total Fatty Acids percentage,met-d-DHA_pct,Docosahexaenoic acid to total fatty acids
+Social isolation Index,Cholesteryl Esters to Total Lipids in IDL percentage,met-d-IDL_CE_pct,Cholesteryl esters to total lipids in IDL
+Social isolation Index,Cholesteryl Esters to Total Lipids in Large LDL percentage,met-d-L_LDL_CE_pct,Cholesteryl esters to total lipids in large LDL
+Social isolation Index,Linoleic Acid to Total Fatty Acids percentage,met-d-LA_pct,Linoleic acid to total fatty acids
+Social isolation Index,Free Cholesterol to Total Lipids in Medium HDL percentage,met-d-M_HDL_FC_pct,Free cholesterol to total lipids in medium HDL
+Social isolation Index,Cholesteryl Esters in Chylomicrons and Extremely Large VLDL,met-d-XXL_VLDL_CE,Cholesteryl esters in chylomicrons and extremely large VLDL
+Social isolation Index,Creatinine,met-d-Creatinine,Creatinine
+Social isolation Index,Valine,met-d-Val,Valine
+Social isolation Index,Cholesterol in Chylomicrons and Extremely Large VLDL,met-d-XXL_VLDL_C,Cholesterol in chylomicrons and extremely large VLDL
+Social isolation Index,Leucine,met-d-Leu,Leucine
